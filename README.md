@@ -12,6 +12,10 @@ Lokal ortamda çalıştırmak için, şu adımları izleyin;
 - PDF dosyanızı seçin.
 - Sorunuzu yazıp gönderin.
 
+# <strong>Önemli Not</strong>
+
+Bu projede kullanacağınız herhangi bir prompt veya herhangi bir dosya; <strong>tamamen</strong> kullanıcının sorumluluğundadır. Proje, veri güvenliği ile ilgili bir garanti vermemektedir. Kişisel poliçelerinizi/verilerinizi paylaşmayınız.
+
 ## Gerçek Dünya Test Prompt'ları
 
 Aşağıdaki listede, uygulamanın gerçek hayattaki bir poliçe örneği ile sorulan soruları bulabilirsiniz; 
